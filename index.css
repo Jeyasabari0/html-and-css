@@ -1,0 +1,18 @@
+*{
+    background-color: bisque;
+}
+h2{
+    opacity: 0.3;
+    background-image: url(images/1dARa.gif);
+    background-repeat: no-repeat;
+    background-position: right top;
+    border-style:dotted solid double dashed;
+    border-width: 5px 10px 15px 20px;
+    border-color: red green blue yellow;
+    border-radius: 10px;
+    
+}
+div{
+    margin: 30px;
+    margin-left: inherit;
+}
