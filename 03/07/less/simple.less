@@ -1,0 +1,17 @@
+@color:pink;
+@font:italic;
+
+h1{
+    background-color: aqua;
+    font: @font;
+    color: @color;
+    margin: 0%;
+}
+h2{
+    &:extend(.style);
+    font: @font;
+    margin: 0%;
+}
+.style{
+    background-color: red;
+}

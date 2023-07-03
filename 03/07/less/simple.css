@@ -1,0 +1,14 @@
+h1 {
+  background-color: aqua;
+  font: italic;
+  color: pink;
+  margin: 0%;
+}
+h2 {
+  font: italic;
+  margin: 0%;
+}
+.style,
+h2 {
+  background-color: red;
+}
